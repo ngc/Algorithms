@@ -10,7 +10,6 @@ typedef vector<vi> vvi;
 typedef vector<pii> vii; 
 typedef vector<LL> vl; 
 typedef vector<vl> vvl; 
-LL n;
 
 int main() {
 	ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
