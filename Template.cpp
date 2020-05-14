@@ -14,12 +14,12 @@ typedef queue<int> qi;
 typedef queue<char> qc;
 typedef stack<int> si;
 typedef stack<char> sc;
-
+#define F first
+#define S second
+#define PB push_back
 
 int main(){
 	ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);
-
-	
 
 	return 0;
 }
